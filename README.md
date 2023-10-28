@@ -10,5 +10,7 @@ Estimate the income and expenditures for a separate group of approximately 10,00
   - Transaction type
   - Transaction amount
   - mcc_group (Mastercard transaction category, for card transactions)
-
+- Lookup table of transaction types
+- Lookup table of credit card categories
+  
 ---
